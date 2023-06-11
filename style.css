@@ -1,0 +1,68 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to right, #00aaff, #00ff6c);
+}
+
+.containar {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    min-height: 100vh;
+    grid-template-columns: repeat(4, 50px);
+    grid-template-rows: minmax(60px, auto) repeat(5, 50px);
+}
+
+.containar>button {
+    cursor: pointer;
+    font-size: 1rem;
+    border: 1px solid white;
+    outline: 0;
+    background-color: rgb(255, 255, 255, 75%);
+}
+
+.containar>button:hover {
+    color: white;
+    background-color: rgba(255, 124, 62, 0.5);
+}
+
+.span-two {
+    grid-column: span 2;
+}
+
+.output {
+    grid-column: 1/-1;
+    background-color: rgba(0, 0, 0, 55%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end;
+    padding: 10px;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+.output .previous-operand {
+    font-size: 1rem;
+    color: rgb(255, 255, 255, 75%);
+}
+
+.output .current-operand {
+    font-size: 1.5rem;
+    color: white;
+}
+
+
+/* 1-how to use background linear gradiant
+2- how to display grid and use grid tamplet colomn and row
+3-grid column span 2 and 1/-1
+4-align-items flex-end
+5-word-wrap:break-word and word-break:break-all*/
