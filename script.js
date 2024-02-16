@@ -124,4 +124,3 @@ deleteButton.addEventListener('click', button => {
         calculator.delete()
         calculator.updateDisplay()
     })
-    //how to use javascript elements in real life app or web
