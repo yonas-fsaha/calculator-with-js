@@ -124,6 +124,5 @@ deleteButton.addEventListener('click', button => {
         calculator.delete()
         calculator.updateDisplay()
     })
-    //how to use this key word
     //add event listner in single and many events
     //how to use javascript elements in real life app or web
