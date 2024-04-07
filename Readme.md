@@ -22,7 +22,7 @@ git clone https://github.com/yonas-fsaha/calculator-with-js.git
 
 Contributions to the JavaScript calculator project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-1. Fork the repository.
+### 1. Fork the repository.
 2. Create a new branch.
 3. Make your changes and commit them.
 4. Push your changes to your forked repository.
