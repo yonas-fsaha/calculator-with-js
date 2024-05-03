@@ -24,6 +24,6 @@ Contributions to the JavaScript calculator project are welcome. If you find any 
 
 ### -> 1. Fork the repository.
 ### ->2. Create a new branch.
-### 3. Make your changes and commit them.
+### -> 3. Make your changes and commit them.
 ### 4. Push your changes to your forked repository.
 ### 5. Submit a pull request.
