@@ -4,7 +4,7 @@ This is a simple calculator project implemented using HTML, CSS, and JavaScript.
 
 ## Installation
 
--To use the JavaScript calculator project, simply clone this repository to your local machine or download the project files as a ZIP archive.
+-If you want to use the JavaScript calculator project, simply clone this repository to your local machine or download the project files as a ZIP archive.
 
 bash
 git clone https://github.com/yonas-fsaha/calculator-with-js.git
