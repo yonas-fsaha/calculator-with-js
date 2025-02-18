@@ -18,5 +18,4 @@ git clone https://github.com/yonas-fsaha/calculator-with-js.git
 4. The result will be displayed in the calculator's display area.
 5. Clear the calculator by clicking the "AC" button.
 
-## Contributing
 
