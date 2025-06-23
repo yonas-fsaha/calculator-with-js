@@ -14,4 +14,4 @@ git clone https://github.com/yonas-fsaha/calculator-with-js.git
 
 1. Open the `index.html` file in your preferred web browser.
 2. The calculator will be displayed on the screen, showing a set of buttons for numbers and operations.
-3. Use the number buttons to 
+3. Use the number buttons
