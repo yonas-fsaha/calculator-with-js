@@ -12,4 +12,4 @@ git clone https://github.com/yonas-fsaha/calculator-with-js.git
 
 ## Usage
 
-1. Open the `index.html` file in your preferred web browse
+1. Open the `index.html` file in your preferred web 
